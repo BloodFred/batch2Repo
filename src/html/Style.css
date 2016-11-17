@@ -1,0 +1,96 @@
+body {
+    background-color: #8b8a86;
+    border:3px solid #8b0808;
+    width:70%;
+    height:90%;
+    text-align:center;
+    margin:auto;
+
+}
+
+#header1{
+    border:2px solid #8b0808;
+    padding:20px;
+    margin:15px 15px 15px 15px;
+}
+
+#nav1{
+    width:100px;
+    border:2px solid #8b0808;
+    padding:25px;
+    margin:auto;
+}
+
+#section1{
+    float:right;
+    width:40%;
+    height:20%;
+    border:2px solid #8b0808;
+    padding:20px;
+    margin:10px;
+}
+
+.headerArticle { /*used for the section and article*/
+    width:200px;
+    border:2px solid #8b0808;
+    padding:20px;
+    margin:10px;
+}
+
+#header2{
+    width:200px;
+    border:2px solid #8b0808;
+    padding:20px;
+    margin:10px;
+}
+
+.header3{
+    width:150px;
+    border:2px solid #8b0808;
+    padding:20px;
+    margin:10px;
+}
+
+#p1{
+    width:125px;
+    border:2px solid #8b0808;
+    padding:20px;
+    margin:10px;
+}
+
+#aside1{
+    width:100px;
+    border:2px solid #8b0808;
+    margin:10px;
+}
+
+#sectionLeft{
+    float:left;
+    width:40%;
+    height:80%;
+    border:2px solid #8b0808;
+    margin:10px;
+}
+
+.headerLeft{
+    width:100px;
+    border:2px solid #8b0808;
+    margin:10px;
+}
+
+#navLeft{
+    height:200px;
+    width:50%;
+    border:2px solid #8b0808;
+
+    margin:10px;
+}
+
+#footerLast{
+    clear: both;
+    width:90%;
+    height:20%;
+    border:2px solid #8b0808;
+    padding:20px;
+    margin:15px 15px 15px 15px;
+}
