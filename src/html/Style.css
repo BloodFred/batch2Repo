@@ -15,7 +15,7 @@ body {
     padding:50px;
     margin:auto;
 }
-/*
+
 #nav1{
     width:95%;
     border:2px solid #8b0808;
@@ -23,6 +23,7 @@ body {
     margin:10px 20px 10px 10px;
 }
 
+/*
 #section1{
     float:right;
     width:40%;
@@ -31,7 +32,7 @@ body {
     margin:10px 10px 10px 10px;
 }
 
-.headerArticle { !*used for the section and article*!
+.headerArticle {
     width:200px;
     border:2px solid #8b0808;
     padding:20px;
@@ -62,7 +63,7 @@ body {
 #aside1{
     width:100px;
     border:2px solid #8b0808;
-    padding:;
+    padding:20px;
     margin:10px;
 }
 
@@ -70,21 +71,21 @@ body {
     float:left;
     width:40%;
     border:2px solid #8b0808;
-    padding:;
+    padding:20px;
     margin:10px;
 }
 
 .headerLeft{
     width:100px;
     border:2px solid #8b0808;
-    padding:;
+    padding:20px;
     margin:10px;
 }
 
 #navLeft{
     width:50%;
     border:2px solid #8b0808;
-    padding:;
+    padding:20px;
     margin:10px;
 }
 
@@ -94,4 +95,5 @@ body {
     border:2px solid #8b0808;
     padding:20px;
     margin:15px 15px 15px 15px;
-}*/
+}
+*/

@@ -1,0 +1,24 @@
+body {
+    background-color: #8b8a86;
+    border:3px solid #8b0808;
+    width:350px;
+    height:auto;
+    text-align:center;
+    margin:auto;
+
+}
+
+
+#header1{
+    width:300px;
+    border:2px solid #8b0808;
+    padding:50px;
+    margin:auto;
+}
+
+#nav1{
+    width:95%;
+    border:2px solid #8b0808;
+    padding:5px;
+    margin:10px 20px 10px 10px;
+}
