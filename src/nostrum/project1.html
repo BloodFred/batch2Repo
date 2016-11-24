@@ -3,13 +3,13 @@
 <head>
     <link rel="stylesheet" href="stylesheets/screen.css">
     <meta charset="UTF-8">
-
     <title>nostrum</title>
 
 </head>
 
 
 <body>
+<div id="result"></div>
    <section id="section2F">
 
 
@@ -34,15 +34,35 @@
         </div>
 
     </section>
-  <!-- <audio controls>
+
+  <!-- <audio>
        <source src="babyblueeyes.mp3" type="audio/mpeg">
        <source src="babyblueeyes.ogg" type="audio/ogg">
    </audio>-->
 
-    <video width="500" controls>
-        <source src="Big Buck Bunny.mp4" type="video/mp4">
-        <source src="Big%Buck%Bunny.ogg" type="video/ogg">
+<div>
 
-    </video>
+<video width="500" id="myVideo">
+    <source src="BigBuckBunny.mp4" type="video/mp4">
+    <source src="BigBuckBunny.mp4" type="video/ogg">
+</video>
+
+<button id="playBtn" type="button">Play</button>
+<button id="stopBtn" type="button">Stop</button>
+
+</div>
+
+
+<!--
+<form action="">
+    <br>
+    First Name: <input type="text"><br>
+    Last Name: <input type="text"><br>
+    <input type="submit" id="submitBtn">;
+</form>
+-->
+
+
+<script src="JS/app.js"> </script>
 </body>
 </html>
